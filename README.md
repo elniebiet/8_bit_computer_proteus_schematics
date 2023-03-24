@@ -1,2 +1,2 @@
-# 8_bit_computer_proteus_schematics
-Bit by bit simulation of an 8_bit computer from clock to basic cpu design
+# 8_bit_cpu_architecture_proteus_schematics
+Bit by bit simulation of an 8_bit cpu architecture from clock to basic cpu design
